@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Hi there! 🤘</p>
-  <p style="font-size: 20px">I'm Felipe, also known as "Damassa"! </p>
+  ##Hi there! 🤘
 </div>
 
 <div align="center">
