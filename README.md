@@ -1,5 +1,10 @@
+##Hi there! 🤘
+
 <div align="center">
-  ##Hi there! 🤘
+  <p>
+    I'm Felipe Leal Damasceno, also known as Damassa.
+    I'm 30 years old and I like front end! 😉
+  </p>
 </div>
 
 <div align="center">
