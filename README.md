@@ -45,5 +45,5 @@
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=purple" />
-  <img src="https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev" />
+  <img src="https://badges.pufler.dev/years/puf17640" />
 </div>
