@@ -3,7 +3,7 @@ I'm Felipe, also known as "Damassa"!
 I'm 30 years old and I like front end! 😉
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdamassa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tdamassa&show_icons=true&theme=midnight-purple"/>
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=purple)
