@@ -43,5 +43,7 @@
 
 ##
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=purple)
-[![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=purple" />
+  <img src="https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev" />
+</div>
