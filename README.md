@@ -1,6 +1,10 @@
-## Hi there :metal: 
-I'm Felipe, also known as "Damassa"! 
-I'm 30 years old and I like front end! 😉
+<div align="center">
+  <p>Hi there! 🤘</p>
+  <p>
+    I'm Felipe, also known as "Damassa"! 
+    I'm 30 years old and I like front end! 😉
+  </p>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&show_icons=true&theme=midnight-purple"/>
