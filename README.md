@@ -7,6 +7,9 @@
   </p>
 </div>
 
+![69a7c3473c77e9c408a08cfa20b3a28b5dd5f3e1_hq](https://user-images.githubusercontent.com/2249891/140521318-621907a6-4261-4e36-9340-5afd853a11b2.gif)
+
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damassa&layout=compact&langs_count=7&theme=midnight-purple"/>
