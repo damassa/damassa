@@ -1,6 +1,10 @@
 ## <p align="center">Hi there! 🤘</p>
 
 <div align="center">
+  <img src="https://c.tenor.com/tbZLvmmkfXcAAAAM/velkoz-lol.gif" />
+</div>
+
+<div align="center">
   <p>
     I'm Felipe Leal Damasceno, also known as Damassa.
     I'm 30 years old and I like front end! 😉
