@@ -1,7 +1,7 @@
 ## <p align="center">Hi there! 🤘</p>
 
 <div align="center">
-  <img height="180em" src="https://c.tenor.com/tbZLvmmkfXcAAAAM/velkoz-lol.gif" />
+  <img height="180em" src="https://pa1.narvii.com/6029/69a7c3473c77e9c408a08cfa20b3a28b5dd5f3e1_hq.gif" />
 </div>
 
 <div align="center">
