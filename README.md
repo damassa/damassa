@@ -1,14 +1,14 @@
 ## <p align="center">Hi there! 🤘</p>
 
 <div align="center">
-  <img height="180em" src="https://pa1.narvii.com/6029/69a7c3473c77e9c408a08cfa20b3a28b5dd5f3e1_hq.gif" />
-</div>
-
-<div align="center">
   <p>
     I'm Felipe Leal Damasceno, also known as Damassa.
     I'm 30 years old and I like front end! 😉
   </p>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://pa1.narvii.com/6029/69a7c3473c77e9c408a08cfa20b3a28b5dd5f3e1_hq.gif" />
 </div>
 
 <div align="center">
