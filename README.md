@@ -9,6 +9,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&show_icons=true&theme=midnight-purple"/>
+  <img src="https://github.com/damassa/github-readme-stats" />
 </div>
 
 ##
