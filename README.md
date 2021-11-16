@@ -9,6 +9,10 @@
 
 ![56cb526c43d26](https://user-images.githubusercontent.com/2249891/140522064-caba0583-bb17-4cad-a2a6-4e7390d03ff5.jpg)
 
+- Front End padawan
+- Studying React/Redux
+- IFSul - TSI
+- Always trying to evolve. 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&show_icons=true&theme=midnight-purple"/>
