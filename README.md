@@ -1,62 +1,79 @@
-## <p align="center">Hi there! 🤘</p>
+# 👋 Olá! Eu sou Felipe Leal Damasceno, mais conhecido como Damassa!
 
-<div align="center">
-  <p>
-    I'm Felipe Leal Damasceno, also known as Damassa.
-    I'm 34 years old and I like front end! 😉
-  </p>
-</div>
+![](https://komarev.com/ghpvc/?username=damassa&color=006bed)
 
-![56cb526c43d26](https://user-images.githubusercontent.com/2249891/140522064-caba0583-bb17-4cad-a2a6-4e7390d03ff5.jpg)
+## Sobre mim
 
-- Front End padawan
-- Studying React/Redux
-- IFSul - TSI
-- Always trying to evolve. 
+-   🤔 Explorando novas tecnologias e desenvolvendo soluções de
+    software.
+-   🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
+-   🎓 Graduando em Tecnologia em Sistemas para Internet
+-   💼 Desenvolvedor front-end focado em **HTML 5, CSS 3, Javascript, Typescript e PHP**.
+-   🌱 Atualmente aprendendo mais sobre **Spring Boot, CodeIgniter e
+    arquitetura de sistemas**.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damassa&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+------------------------------------------------------------------------
 
-##
+## 🛠️ Tecnologias que utilizo
 
-<div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+### **Stacks principais**
 
-##
+```{=html}
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+```
+`<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://www.typescriptlang.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://react.dev/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://styled-components.com/" target="_blank">`{=html}`<img height="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />`{=html}`</a>`{=html}
+`<a href="https://tailwindcss.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />`{=html}`</a>`{=html}
+`<a href="https://nodejs.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://www.php.net/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://codeigniter.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />`{=html}`</a>`{=html}
+`<a href="https://laravel.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />`{=html}`</a>`{=html}
+`<a href="https://www.java.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://spring.io/projects/spring-boot" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://mariadb.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />`{=html}`</a>`{=html}
+`<a href="https://www.mongodb.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-<div align="center"> 
-  <a href="https://instagram.com/damassaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
-  <a href = "mailto:felipelealdamasceno@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/damassa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/damassaa/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/damassaa/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="https://wa.me/+5553991799449" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</div>
- 
- ##
- 
-<div align="center">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Tech" />
-  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="Tech" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="Tech" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Tech" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Tech" />
-</div>
+------------------------------------------------------------------------
 
-##
+## 🔧 Utilidades e Ferramentas
 
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=black&right_color=purple" />
-  <img src="https://badges.pufler.dev/years/puf17640" />
-</div>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS
+Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+------------------------------------------------------------------------
+
+## 📊 Estatísticas do GitHub
+
+::: {align="center"}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&theme=tokyonight&show_icons=true&hide_border=true" />`{=html}
+`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damassa&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🐍 Contribuição Dinâmica
+
+::: {align="center"}
+![Snake
+animation](https://raw.githubusercontent.com/damassa/damassa/output/github-contribution-grid-snake.svg)
+:::
+
+------------------------------------------------------------------------
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-damassa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damassa)](https://www.linkedin.com/in/damassa)
+[![Gmail](https://img.shields.io/badge/-felipelealdamasceno@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipelealdamasceno@gmail.com)](mailto:felipelealdamasceno@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/damassa?label=follow&style=social)](https://github.com/damassa)
