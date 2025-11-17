@@ -14,11 +14,6 @@
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tecnologias que utilizo
-
-### **Stacks principais**
-
-------------------------------------------------------------------------
 
 ## 🔧 Utilidades e Ferramentas
 
@@ -36,13 +31,6 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=damassa)](https://github.com/damassa/github-readme-stats)
 
-------------------------------------------------------------------------
-
-## 🐍 Contribuição Dinâmica
-
-
-
-------------------------------------------------------------------------
 
 ## Onde me encontrar
 
