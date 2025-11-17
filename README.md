@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Felipe Leal Damasceno, mais conhecido como Damassa!
+# 👋 Olá! Eu sou Felipe Leal Damasceno, mais conhecido como Damassa! Tenho 34 anos e amo front-end!
 
 ![](https://komarev.com/ghpvc/?username=damassa&color=006bed)
 
