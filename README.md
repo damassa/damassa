@@ -18,28 +18,6 @@
 
 ### **Stacks principais**
 
-```{=html}
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-```
-`<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://www.typescriptlang.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://react.dev/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://styled-components.com/" target="_blank">`{=html}`<img height="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />`{=html}`</a>`{=html}
-`<a href="https://tailwindcss.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />`{=html}`</a>`{=html}
-`<a href="https://nodejs.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://www.php.net/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://codeigniter.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />`{=html}`</a>`{=html}
-`<a href="https://laravel.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />`{=html}`</a>`{=html}
-`<a href="https://www.java.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://spring.io/projects/spring-boot" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://mariadb.org/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />`{=html}`</a>`{=html}
-`<a href="https://www.mongodb.com/" target="_blank">`{=html}`<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-
 ------------------------------------------------------------------------
 
 ## 🔧 Utilidades e Ferramentas
@@ -56,19 +34,12 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
 
 ## 📊 Estatísticas do GitHub
 
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=damassa&theme=tokyonight&show_icons=true&hide_border=true" />`{=html}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damassa&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
-:::
 
 ------------------------------------------------------------------------
 
 ## 🐍 Contribuição Dinâmica
 
-::: {align="center"}
-![Snake
-animation](https://raw.githubusercontent.com/damassa/damassa/output/github-contribution-grid-snake.svg)
-:::
+
 
 ------------------------------------------------------------------------
 
