@@ -33,7 +33,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damassa&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damassa&layout=compact&langs_count=8&card_width=320&theme=tokynight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damassa&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Onde me encontrar
