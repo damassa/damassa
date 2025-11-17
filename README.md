@@ -34,6 +34,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
 
 ## 📊 Estatísticas do GitHub
 
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=damassa)](https://github.com/damassa/github-readme-stats)
 
 ------------------------------------------------------------------------
 
