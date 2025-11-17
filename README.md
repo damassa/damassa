@@ -8,7 +8,7 @@
     software.
 -   🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 -   🎓 Graduando em Tecnologia em Sistemas para Internet
--   💼 Desenvolvedor front-end focado em **HTML 5, CSS 3, Javascript, Typescript e PHP**.
+-   💼 Desenvolvedor front-end atualmente focado em **HTML 5, CSS 3, Javascript, Typescript e PHP**.
 -   🌱 Atualmente aprendendo mais sobre **Spring Boot, CodeIgniter e
     arquitetura de sistemas**.
 
