@@ -30,7 +30,7 @@ Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&log
 ## 📊 Estatísticas do GitHub
 
 <a href="https://github.com/damassa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damassa&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=damassa&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damassa&layout=compact&langs_count=8&card_width=320" />
